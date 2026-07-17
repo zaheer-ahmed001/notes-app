@@ -89,7 +89,7 @@ def home():
         <div class="container">
             <h1>📝 Notes App</h1>
             <div class="add-form">
-                <input type="text" id="noteTitle" placeholder="Note title...">
+                <input type="text" id="noteTitle" placeholder="Write Here....">
                 <button onclick="addNote()">Add</button>
             </div>
             <div id="notesList"></div>
